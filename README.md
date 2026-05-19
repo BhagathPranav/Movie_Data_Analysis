@@ -28,4 +28,4 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a dataset
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the script: `python movie_analysis.py`
-4. Check the `outputs/` folder for the cleaned dataset and generated visualizations.
+
